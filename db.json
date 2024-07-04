@@ -1,0 +1,6 @@
+{
+  "noticias": [
+    { "id": 1, "titulo": "Notícia Nr 1", "descricao": "Palmeiras Sempre" },
+    { "id": 2, "titulo": "Notícia Nr 2", "descricao": "Palmeiras Mundial" }
+  ]
+}
