@@ -1,4 +1,3 @@
-# My App
 
 ## Configuração
 
