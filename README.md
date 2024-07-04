@@ -12,7 +12,7 @@
 1. Clone o repositório:
 
 ```sh
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/gleison132/cepbusca.gitsitorio.git
 
 ## Estrutura do Projeto
 
